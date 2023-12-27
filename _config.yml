@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Contemplaid
+title                    : "Syed H."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Contemplaid"
@@ -297,4 +297,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
